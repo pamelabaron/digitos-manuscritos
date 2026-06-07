@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+*.log
+.env
+.env.*
+kaggle.json
+dados/*
+modelos/*
+!modelos/metricas.txt
+submission.csv
+.DS_Store
+Thumbs.db
