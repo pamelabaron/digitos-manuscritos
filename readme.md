@@ -1,4 +1,4 @@
-# Classificacao de Digitos Manuscritos com Python
+# Classificação de Digitos Manuscritos com Python
 
 Projeto em Python para treinar um classificador de dígitos manuscritos com base no desafio **Digit Recognizer** do Kaggle e no exemplo de MLP do notebook referenciado. O modelo usa `MLPClassifier` do scikit-learn e a aplicação inclui uma interface interativa em `tkinter` para desenhar um dígito com o mouse e classificá-lo.
 
